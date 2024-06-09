@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CustomModal from "./components/CustomModal";
+import CustomModal from "./components/CustomModel";
 
 const App = () => {
   const [showModal, setShowModal] = useState(false);
